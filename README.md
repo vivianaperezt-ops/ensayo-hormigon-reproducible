@@ -28,4 +28,5 @@ Auditar y procesar los datos de laboratorio de un ensayo de compresión destruct
 
 ## 5. Supuestos y Limitaciones
 * Velocidad de carga uniforme y continua sin ciclos de descarga.
-* No se instrumentó deformación transversal (sin estimación de módulo de Poisson).ara ensayo de compresión en probetas de hormigón.
+* No se instrumentó deformación transversal (sin estimación de módulo de Poisson).
+
